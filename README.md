@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fancyhorse
+- 👋 Hi, I’m @Raimaqureshi
 - 👀 I’m interested in learn typescript
 - 🌱 I’m currently learning typescript
 - 💞️ I’m looking to collaborate on myself
